@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/samueli.navarroriojas/Dev/tec/cplus/act3/school_admin'
+relocations:     []
+...
